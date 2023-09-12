@@ -1,1 +1,1 @@
-# Lesson-2
+Declaration and initialization of variables of different type types
